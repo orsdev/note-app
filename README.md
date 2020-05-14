@@ -1,6 +1,6 @@
 # NOTES-APP
 
-A terminal note app made with node.
+A cli-noteapp made with nodeJs.
 
 ### Installing
 
